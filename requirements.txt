@@ -1,0 +1,11 @@
+# Dependências principais do script crescendo_bancario.py
+# Instale com: pip install -r requirements.txt
+
+transformers>=4.45.0
+torch>=2.2.0
+accelerate>=0.26.0
+
+# Dependências úteis para tokenizers/modelos Hugging Face como Llama/Qwen
+sentencepiece>=0.2.0
+protobuf>=4.25.0
+safetensors>=0.4.3
